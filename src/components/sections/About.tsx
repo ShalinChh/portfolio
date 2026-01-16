@@ -5,15 +5,15 @@ import { motion } from "framer-motion";
 const skillCategories = [
     {
         title: "Languages",
-        skills: ["Python", "JavaScript", "Java", "SQL", "HTML/CSS", "TypeScript"],
+        skills: ["TypeScript", "JavaScript", "Python", "SQL", "Java", "HTML/CSS"],
     },
     {
         title: "Frameworks & Libraries",
-        skills: ["React.js", "Next.js", "Node.js", "Tailwind CSS"],
+        skills: ["Next.js 14", "React.js", "Node.js", "Tailwind CSS", "Prisma", "Fabric.js"],
     },
     {
         title: "Tools & Platforms",
-        skills: ["Git", "Docker", "Firebase", "Figma", "Jira", "Notion", "TablePlus", "Retool"],
+        skills: ["OpenAI API", "WebSockets", "Liveblocks", "Git", "Figma", "Vercel", "Docker"],
     },
 ];
 

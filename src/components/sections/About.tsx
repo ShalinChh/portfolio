@@ -47,13 +47,13 @@ export function About() {
                         </div>
                         <div className="space-y-4 text-muted-foreground text-lg">
                             <p>
-                                I'm <strong>Shalin Chhetri</strong>, a Computer Science student at Toronto Metropolitan University, driven by the thrill of solving complex problems. My journey involves not just writing code, but understanding the systems and stories behind it.
+                                Hey there! 👋 I'm <strong>Shalin Chhetri</strong>, a Computer Science student at TMU who loves building things that feel alive on the web.
                             </p>
                             <p>
-                                My background is as dynamic as my stack. I'm Nepali, which has instilled in me a resilience and a global perspective that I bring to every project. When I'm not debugging or optimizing databases, you'll find me on the slopes—I love **snowboarding**—or playing soccer and basketball. The teamwork and strategy I learn there directly translate to how I collaborate on development projects.
+                                I believe code should be fun, fast, and functional. Whether I'm engineering a real-time collaboration engine or training a voice AI to chat about the weather, I live for that "aha!" moment when a complex abstract idea turns into a seamless user experience.
                             </p>
                             <p>
-                                I'm constantly expanding my toolkit, currently diving deep into full-stack development and AI integration.
+                                When I'm not shipping code, I'm usually chasing adrenaline—carving down snowy mountains on my snowboard 🏂, or competing on the soccer field. I bring that same energy to engineering: fast-paced, resilient, and always playing for the team.
                             </p>
                         </div>
 

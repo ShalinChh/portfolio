@@ -93,10 +93,8 @@ export function Projects() {
                   </div>
                 </CardContent>
                 <CardFooter className="gap-3 pt-4">
-                  <Button variant="default" size="sm" className="w-full gap-2 bg-indigo-600 hover:bg-indigo-700 text-white" asChild>
-                    <a href={project.links.demo} target="_blank" rel="noopener noreferrer">
-                      <ExternalLink className="w-4 h-4" /> Demo
-                    </a>
+                  <Button variant="default" size="sm" className="w-full gap-2 bg-white/10 text-white cursor-not-allowed hover:bg-white/10" disabled>
+                    <ExternalLink className="w-4 h-4" /> WIP, will be released soon
                   </Button>
                 </CardFooter>
               </Card>
